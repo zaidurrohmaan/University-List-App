@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">ListKampus</string>
+
+    <string name="university_name">Nama Perguruan Tinggi</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+
+    <string-array name="data_name">
+        <item>BINUS University</item>
+        <item>Institut Pertanian Bogor</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Institut Teknologi Sepuluh Nopember</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Gadjah Mada</item>
+        <item>Universitas Indonesia</item>
+        <item>Universitas Negeri Yogyakarta</item>
+        <item>Universitas Pendidikan Indonesia</item>
+        <item>Universitas Padjadjaran</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Universitas Bina Nusantara (disingkat Binus), dijenamakan sebagai Binus University, adalah salah satu universitas swasta Indonesia. Universitas ini bernaung di bawah lembaga pendidikan Bina Nusantara.</item>
+        <item>Institut Pertanian Bogor (nama bahasa Inggris: IPB University). merupakan Perguruan Tinggi Negeri yang berlokasi di Bogor, Jawa Barat. IPB awalnya merupakan fakultas pertanian dari Universitas Indonesia. Namun, pada 1 September 1963, IPB lepas dari Universitas Indonesia dan berdiri menjadi sebuah institut pertanian.</item>
+        <item>Institut Teknologi Bandung (disingkat ITB) adalah sebuah perguruan tinggi negeri yang berkedudukan di Kota Bandung. Nama ITB diresmikan pada tanggal 2 Maret 1959. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan Hukum (PTN BH) yang memiliki otonomi pengelolaan dalam akademik dan nonakademik. ITB telah memiliki 27 program studi yang terakreditasi secara internasional (sebelas dari ABET, sebelas dari ASIIN).</item>
+        <item>Institut Teknologi Sepuluh Nopember (disingkat ITS) adalah perguruan tinggi negeri yang terletak di Surabaya, Jawa Timur. Pada awalnya, ITS didirikan oleh Yayasan Perguruan Tinggi Teknik (YPTT) yang diketuai oleh dr. Angka Nitisastro pada 10 November 1957.</item>
+        <item>Universitas Brawijaya (UB) adalah perguruan tinggi negeri di Indonesia yang berdiri pada tahun 1963 di Kota Malang, Jawa Timur melalui Ketetapan Menteri Pendidikan dan Ilmu Pengetahuan no.1 tanggal 5 Januari 1963. Tanggal tersebut kemudian ditetapkan sebagai Dies Natalis UB. Nama Brawijaya diberikan khusus oleh Presiden Soekarno dengan harapan mampu gemilang seperti Raden Wijaya (Brawijaya I) selaku pendiri Kerajaan Majapahit sekaligus menjadi kampus kebanggaan bangsa Indonesia.</item>
+        <item>Universitas Gadjah Mada (UGM) adalah perguruan tinggi negeri di Daerah Istimewa Yogyakarta, Indonesia. Universitas Gadjah Mada merupakan perguruan tinggi pertama yang didirikan oleh Pemerintah Indonesia setelah Indonesia merdeka. UGM berdiri pada tanggal 19 Desember 1949 dengan mengukuhkan Peraturan Pemerintah Nomor 23 Tahun 1949 tentang Peraturan Tentang Penggabungan Perguruan Tinggi Menjadi Universiteit tanggal 16 Desember 1949.[4]</item>
+        <item>Universitas Indonesia disingkat sebagai UI, adalah perguruan tinggi di Indonesia. Kampus utamanya terletak di bagian Utara dari Depok, Jawa Barat tepat di perbatasan antara Depok dan wilayah Jakarta Selatan, sementara kampus utama lainnya terdapat di Salemba, Jakarta Pusat. UI merupakan institusi pendidikan tinggi tertua di Indonesia. Beberapa perguruan tinggi negeri terkemuka di Indonesia seperti Institut Teknologi Bandung, Institut Pertanian Bogor, Universitas Airlangga, Universitas Hasanuddin, dan Universitas Negeri Jakarta pada awalnya merupakan bagian dari UI hingga kemudian memisahkan diri menjadi institusi tersendiri. UI juga merupakan salah satu dari tiga perguruan tinggi terbaik di Indonesia bersama dengan Universitas Gadjah Mada dan Institut Teknologi Bandung.</item>
+        <item>Universitas Negeri Yogyakarta (disingkat UNY) merupakan salah satu perguruan tinggi negeri yang berdiri di Yogyakarta, Indonesia yang beralamat di Caturtunggal, Kapanewon Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Sebelumnya, Universitas Negeri Yogyakarta bernama Institut Keguruan dan Ilmu Pendidikan Yogyakarta (IKIP Yogyakarta).</item>
+        <item>Universitas Pendidikan Indonesia (UPI) adalah sebuah perguruan tinggi negeri yang kampus utamanya berkedudukan di Kota Bandung, Jawa Barat, Indonesia. Sejak tahun 2012, UPI berstatus sebagai perguruan tinggi yang diselenggarakan pemerintah (PTP), berubah dari status sebelumnya sebagai perguruan tinggi Badan Hukum Milik Negara (BHMN).</item>
+        <item>Universitas Padjadjaran (disingkat Unpad) adalah sebuah perguruan tinggi negeri di Jawa Barat, Indonesia. Kampus utama Unpad, terutama untuk Program Sarjana, berada di Jatinangor, Kabupaten Sumedang, Jawa Barat. Sejak 20 Oktober 2014, status universitas berubah menjadi Perguruan Tinggi Negeri Badan Hukum (PTN BH) dari sebelumnya berstatus Badan Layanan Umum (BLU). Peresmian itu ditandai dengan peraturan pemerintah (PP) yang ditandatangani Presiden Susilo Bambang Yudhoyono. Penetapan itu didasarkan atas evaluasi kinerja yang dilakukan tim independen yang dibentuk oleh Kementerian Pendidikan dan Kebudayaan (Kemendikbud). Berdasarkan Keputusan Badan Akreditasi Nasional Perguruan Tinggi (BAN PT) tertanggal 16 Januari 2014, Unpad mendapat peringkat A (sangat baik).</item>
+    </string-array>
+
+    <string-array name="data_web">
+        <item>https://binus.ac.id</item>
+        <item>https://ipb.ac.id</item>
+        <item>https://www.itb.ac.id</item>
+        <item>https://www.its.ac.id</item>
+        <item>https://ub.ac.id</item>
+        <item>https://ugm.ac.id</item>
+        <item>https://www.ui.ac.id</item>
+        <item>https://www.uny.ac.id</item>
+        <item>https://www.upi.edu</item>
+        <item>https://www.unpad.ac.id</item>
+    </string-array>
+
+    <string-array name="data_rank">
+        <item>1531</item>
+        <item>911</item>
+        <item>786</item>
+        <item>1163</item>
+        <item>797</item>
+        <item>694</item>
+        <item>561</item>
+        <item>1677</item>
+        <item>2165</item>
+        <item>1831</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/binus</item>
+        <item>@drawable/ipb</item>
+        <item>@drawable/itb</item>
+        <item>@drawable/its</item>
+        <item>@drawable/ub</item>
+        <item>@drawable/ugm</item>
+        <item>@drawable/ui</item>
+        <item>@drawable/uny</item>
+        <item>@drawable/upi</item>
+        <item>@drawable/unpad</item>
+    </integer-array>
+</resources>
